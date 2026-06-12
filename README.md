@@ -1,4 +1,4 @@
-# Lazarus Machinae: ONYX-16 Emulator 🖥️
+# Lazarus Machinae: ONYX-16 Emulator 
 
 > *A fully functional 16-bit CPU emulator built from scratch in C++ — every wire, every bus transaction, every clock pulse implemented by hand.*
 
